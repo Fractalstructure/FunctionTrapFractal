@@ -1,0 +1,1 @@
+This repository contains MATLAB code to generate fractal images using the **function trap method** described in the manuscript *"Function Trap Method for Generating Biomorphs"*. The code reproduces all figures from the paper, including the Sea Anemone, Neuron, Pickover Stalk, and Bubble methods.
